@@ -1,9 +1,13 @@
-<img src = "(https://www.canva.com/design/DAGO0eAczNs/zTdwAtI9MF4Fms4NcViV1w/edit?ui=eyJBIjp7IkkiOnsiQSI6eyJBIjoiRlJlR0UxajlHIiwiQiI6eyJEX0tJcVBuUm8iOnsiQT8iOiJBIn0sIkRfS0FkWXhuTiI6eyJBPyI6IkIiLCJBIjoiRlJlTHlBLVNuIn0sIkRfS004R2pBSyI6eyJBPyI6IkMiLCJBIjpbeyJBIjoiRlJPTlQiLCJCIjpbMV19XX0sIkRfS0k4Wkh2MiI6eyJBPyI6IkUiLCJBIjoxfSwiRUU5aF9tdmRWIjp7IkE_IjoiRCIsIkEiOiJFRTlrZ2toRWMifX0sIkMiOnsicHJvZHVjdFNpemUiOiJzbWFsbExhbmRzY2FwZSIsInF1YW50aXR5IjoiMSIsIm1hdGVyaWFsIjoidmlueWwifX19fX0)"/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevJockey90.DevJockey90" />
+<img src="ProfileBanner.png" >
+
+<h1>Hello Good People!</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&weight=800&size=40&duration=2000&pause=1000&color=30F778&background=FFB31800&width=700&height=60&lines=I+Am;Your+Next+Software+Engineer)](https://git.io/typing-svg)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevJockey90.DevJockey90" />
+
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-font=Poppins&size35&center=true&vCenter=true&width=500&height=70&duration=4000lines=Hello+Good+People!;+I'm+Landen+Turner;" />
+<img src="https://readme-typing-svg.herokuapp.com/?
+font=Poppins&size35&center=true&vCenter=true&width=500&height=70&duration=4000lines=Hello+Good+People!;+I'm+Landen+Turner" />
 </h1>
 
 Hello, I'm Landen. 
